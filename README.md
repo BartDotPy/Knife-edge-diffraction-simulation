@@ -1,5 +1,7 @@
 # Knife-edge-diffraction-simulation
 A real-time visualization of radio wave propagation and diffraction loss using the Single Knife-Edge model, built with Python and Pygame.
+<img width="996" height="591" alt="image" src="https://github.com/user-attachments/assets/62d8131f-2a9d-4ac6-865a-748bf87eddaf" />
+
 
 This project was created to visualize how radio signals interact with obstacles (like hills or buildings) in the line of sight (LOS). It combines physics formulas with geometric calculations to determine whether a signal is blocked and calculate the resulting loss in decibels (dB).
 
